@@ -1,0 +1,727 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"be",
+				"best"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"I",
+				"INT_MAX"
+			],
+			[
+				"bo",
+				"Board"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"Ar",
+				"ArrayList"
+			],
+			[
+				"bu",
+				"busyDiag1"
+			],
+			[
+				"sol",
+				"mySolve"
+			],
+			[
+				"l",
+				"ListNode"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"gen",
+				"generateParenthesis"
+			],
+			[
+				"super",
+				"superPow2"
+			],
+			[
+				"retu",
+				"return"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "2A/2A.cpp",
+			"settings":
+			{
+				"buffer_size": 1147,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2A/2A.in",
+			"settings":
+			{
+				"buffer_size": 327,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "2A/2A.out",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/apple/Codeforces",
+		"/Users/apple/Codeforces/2A"
+	],
+	"file_history":
+	[
+		"/Users/apple/Codeforces/2A/14E.out",
+		"/Users/apple/Codeforces/2A/2A.in",
+		"/Users/apple/Codeforces/14E/14E.in",
+		"/Users/apple/Codeforces/14E/14E.out",
+		"/Users/apple/Codeforces/845E/845E.cpp",
+		"/Users/apple/Codeforces/14E/14E.cpp",
+		"/Users/apple/USACO/Chapter6/checker/checker.cpp",
+		"/Users/apple/USACO/Chapter6/checker/checker.out",
+		"/Users/apple/USACO/Chapter6/fence4/fence4.cpp",
+		"/Users/apple/USACO/Chapter6/fence4/fence4.out",
+		"/Users/apple/USACO/Chapter6/fence4/fence4.in",
+		"/Users/apple/USACO/Chapter6/betsy/betsy.cpp",
+		"/Users/apple/USACO/Chapter6/betsy/betsy.in",
+		"/Users/apple/USACO/Chapter6/betsy/betsy.out",
+		"/Users/apple/USACO/Chapter6/clocks/clocks.out",
+		"/Users/apple/USACO/Chapter6/clocks/clocks.in",
+		"/Users/apple/USACO/Chapter6/clocks/clocks.cpp",
+		"/Users/apple/USACO/Chapter6/latin/latin.out",
+		"/Users/apple/USACO/Chapter6/latin/latin.in",
+		"/Users/apple/USACO/Chapter6/latin/latin.cpp",
+		"/Users/apple/USACO/Chapter6/latin/backup.cpp",
+		"/Users/apple/USACO/Chapter6/fence3/fence3.cpp",
+		"/Users/apple/USACO/Chapter6/fence3/fence3.out",
+		"/Users/apple/USACO/Chapter6/fence3/fence3.in",
+		"/Users/apple/USACO/Chapter6/prime3/prime3.out",
+		"/Users/apple/USACO/Chapter6/prime3/prime3_2.out",
+		"/Users/apple/USACO/Chapter6/prime3/previous_edition.cpp",
+		"/Users/apple/USACO/Chapter6/prime3/prime3.cpp",
+		"/Users/apple/USACO/Chapter6/prime3/backup.cpp",
+		"/Users/apple/Desktop/untitled.cpp",
+		"/Users/apple/USACO/Chapter6/prime3/prime3.in",
+		"/Users/apple/USACO/Chapter6/wissqu/wissqu.out",
+		"/Users/apple/USACO/Chapter6/wissqu/wissqu.cpp",
+		"/Users/apple/USACO/Chapter6/fence8/fence8.cpp",
+		"/Users/apple/USACO/Chapter6/fence8/fence8.out",
+		"/Users/apple/USACO/Chapter6/fence8/fence8.in",
+		"/Users/apple/USACO/Chapter6/cryptcow/cryptcow.cpp",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section4.1/cryptcow/cryptcow.c",
+		"/Users/apple/USACO/Chapter6/cryptcow/cryptcow.out",
+		"/Users/apple/USACO/Chapter6/cryptcow/cryptcow.in",
+		"/Users/apple/USACO/Chapter6/cowcycle/cowcycle.cpp",
+		"/Users/apple/USACO/Chapter6/cowcycle/cowcycle.in",
+		"/Users/apple/USACO/Chapter6/cowcycle/cowcycle.out",
+		"/Users/apple/USACO/Chapter6/rect1/rect1.cpp",
+		"/Users/apple/USACO/Chapter6/rect1/rect1.out",
+		"/Users/apple/USACO/Chapter6/rect1/rect1.in",
+		"/Users/apple/USACO/Chapter6/packrec/packrec.out",
+		"/Users/apple/USACO/Chapter6/packrec/packrec.cpp",
+		"/Users/apple/USACO/Chapter6/calfflac/calfflac.cpp",
+		"/Users/apple/USACO/Chapter6/calfflac/calfflac.in",
+		"/Users/apple/USACO/Chapter6/calfflac/calfflac.out",
+		"/Users/apple/USACO/Chapter6/packrec/packrec.in",
+		"/Users/apple/USACO/Chapter6/vans/vans.cpp",
+		"/Users/apple/USACO/Chapter6/vans/vans.out",
+		"/Users/apple/USACO/Chapter6/vans/vans.in",
+		"/Users/apple/USACO/Chapter6/cowxor/cowxor.cpp",
+		"/Users/apple/USACO/Chapter6/cowxor/cowxor.in",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section6.1/vans/vans.c",
+		"/Users/apple/USACO/Chapter6/cowxor/cowxor.out",
+		"/Users/apple/USACO/Chapter6/rectbarn/rectbarn.cpp",
+		"/Users/apple/USACO/Chapter6/rectbarn/rectbarn.out",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section6.1/rectbarn/rectbarn.c",
+		"/Users/apple/USACO/Chapter6/rectbarn/rectbarn.in",
+		"/Users/apple/USACO/Chapter5/picture/picture.cpp",
+		"/Users/apple/USACO/Chapter5/picture/picture.out",
+		"/Users/apple/USACO/Chapter5/picture/picture.in",
+		"/Users/apple/USACO/Chapter5/twofive/twofive.out",
+		"/Users/apple/USACO/Chapter5/twofive/twofive.in",
+		"/Users/apple/USACO/Chapter5/twofive/twofive.cpp",
+		"/Users/apple/USACO/Chapter5/hidden/hidden.cpp",
+		"/Users/apple/USACO/Chapter5/hidden/hidden.in",
+		"/Users/apple/USACO/Chapter5/hidden/hidden.out",
+		"/Users/apple/USACO/Chapter5/charrec/font.in",
+		"/Users/apple/USACO/Chapter5/charrec/charrec.in",
+		"/Users/apple/USACO/Chapter5/charrec/charrec.out",
+		"/Users/apple/USACO/Chapter5/charrec/charrec.cpp",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section5.4/charrec/charrec.c",
+		"/Users/apple/USACO/Chapter5/telecow/telecow.cpp",
+		"/Users/apple/USACO/Chapter5/telecow/telecow.in",
+		"/Users/apple/USACO/Chapter5/telecow/telecow.out",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section5.4/telecow/telecow.c",
+		"/Users/apple/USACO/Chapter5/tour/tour.cpp",
+		"/Users/apple/USACO/Chapter5/tour/tour.out",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section5.4/tour/tour.c",
+		"/Users/apple/USACO/Chapter5/milk4/milk4.cpp",
+		"/Users/apple/USACO/Chapter5/milk4/milk4.in",
+		"/Users/apple/USACO/Chapter5/milk4/milk4.out",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section5.3/milk4/milk4.c",
+		"/Users/apple/USACO/Chapter5/window/window.cpp",
+		"/Users/apple/USACO/Chapter5/window/window.out",
+		"/Users/apple/USACO/Chapter5/window/window.in",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section5.3/window/window.c",
+		"/Users/apple/USACO/Chapter5/schlnet/schlnet.cpp",
+		"/Users/apple/USACO/Chapter5/schlnet/schlnet_2.cpp",
+		"/Users/apple/USACO/Chapter5/schlnet/schlnet.in",
+		"/Users/apple/USACO/Chapter5/schlnet/schlnet.out",
+		"/Users/apple/USACO/Chapter5/bigbrn/bigbrn.in",
+		"/Users/apple/USACO/Chapter5/bigbrn/bigbrn.out",
+		"/Users/apple/USACO/Chapter5/bigbrn/bigbrn.cpp",
+		"/Users/apple/USACO/Chapter5/snail/snail.cpp",
+		"/Users/apple/USACO/Chapter5/snail/snail.out",
+		"/Users/apple/USACO/Chapter5/snail/snail.in",
+		"/Users/apple/USACO/Chapter5/starry/starry.cpp",
+		"/Users/apple/USACO/Chapter5/starry/starry.out",
+		"/Users/apple/USACO/Chapter5/fc/fc.cpp",
+		"/Users/apple/USACO/Chapter5/starry/starry.in",
+		"/Users/apple/USACO/Chapter5/fc/fc.out",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section5.1/fc/fc.c",
+		"/Users/apple/USACO/Chapter5/theme/theme.cpp",
+		"/Users/apple/USACO/Chapter5/theme/theme.out",
+		"/Users/apple/USACO/Chapter5/theme/theme.in",
+		"/Users/apple/USACO/Chapter2/Section2.4/cowtour/cowtour.cpp",
+		"/Users/apple/USACO/Chapter4/Section4.4/frameup/frameup.cpp",
+		"/Users/apple/USACO/Chapter4/Section4.4/frameup/frameup.in",
+		"/Users/apple/USACO/Chapter4/Section4.4/frameup/frameup.out",
+		"/Users/apple/USACO/Chapter4/Section4.4/milk6/milk6.cpp",
+		"/Users/apple/USACO/Chapter4/Section4.4/milk6/milk6.out",
+		"/Users/apple/USACO/Chapter4/Section4.4/milk6/milk6.in",
+		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section4.4/milk6/milk6.c",
+		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.cpp",
+		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.out",
+		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.in",
+		"/Users/apple/USACO/Chapter4/Section4.3/lgame/lgame.cpp",
+		"/Users/apple/USACO/Chapter4/Section4.3/lgame/lgame.in",
+		"/Users/apple/USACO/Chapter4/Section4.3/lgame/lgame.out",
+		"/Users/apple/USACO/Chapter4/Section4.3/race3/race3.cpp",
+		"/Users/apple/USACO/Chapter4/Section4.3/race3/race3.out",
+		"/Users/apple/USACO/Chapter4/Section4.3/race3/race3.in"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"/Users/apple/leet_practice"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"time",
+			"14",
+			"t",
+			"betsy",
+			"vis",
+			"betsy",
+			"map",
+			"[\n",
+			"clocks",
+			"count",
+			"vans",
+			"fence3",
+			"by",
+			"bx",
+			"fence8",
+			"/*",
+			"hash_last_col",
+			"hash_last_row",
+			"is_prime",
+			"flag",
+			"diag[1]",
+			"diag[0]",
+			"232",
+			"yy",
+			"stop",
+			"hash2",
+			"hash1",
+			"pos",
+			"mycmp",
+			"59221",
+			"is_p",
+			"is_prime(",
+			"row_count",
+			"100000",
+			"prime2",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"wissqu",
+			"fence8",
+			"depth",
+			"rail",
+			"board",
+			"cur",
+			"max",
+			"cryptcow",
+			"count",
+			"cowcycle",
+			"rect1",
+			"packrec",
+			"rec",
+			"dfs1",
+			"calfflac",
+			"Ngp",
+			"pg",
+			"gp",
+			"is_same",
+			"character",
+			"vans",
+			"cowxor",
+			"len",
+			"rectbarn",
+			"left",
+			"right",
+			"up",
+			"starry",
+			"Segment",
+			"25",
+			"hidden",
+			"picture",
+			"font",
+			"ans[0]",
+			"min",
+			"ans",
+			"telecow",
+			"top",
+			"id",
+			"(n<<1)",
+			"n<<1",
+			"idx",
+			"tour",
+			"map",
+			"milk4",
+			"starry",
+			"remove",
+			"area",
+			"size",
+			".",
+			"schlnet",
+			"vis",
+			"index",
+			"bigbrn",
+			"snail",
+			"grid",
+			"starry",
+			"18",
+			"fc",
+			"spot",
+			"fc",
+			"on_top",
+			"steps",
+			"st",
+			"s1",
+			"Trie",
+			"unavoidable",
+			"next",
+			"lim1",
+			"max",
+			"find",
+			"dist",
+			"cur.",
+			"transformed[t]",
+			"consider[i]",
+			"en[i]",
+			"st[i]",
+			"ans",
+			"next",
+			"last_move",
+			"k",
+			"get_num",
+			"==",
+			"operator",
+			"init_dist",
+			"exit",
+			"value",
+			"index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"change_time",
+			"845",
+			"j",
+			"checker",
+			"fence4",
+			"g",
+			"betsy",
+			"num",
+			"clocks",
+			"latin",
+			"besty",
+			"bestx",
+			"fence3",
+			"hash3",
+			"hash2",
+			"not_prime",
+			"diag2",
+			"diag1",
+			"full",
+			"hash_next_row",
+			"hash_next_col",
+			"my_cmp",
+			"is_prime",
+			"is_prime[",
+			"maxp",
+			"prime3",
+			"4",
+			"3",
+			"2",
+			"1",
+			"0",
+			"prime3",
+			"wissqu",
+			"cur_r",
+			"r",
+			"b",
+			"depth",
+			"fence8",
+			"s_count",
+			"cryptcow",
+			"cowcycle",
+			"rect1",
+			"backup",
+			"dfs",
+			"packrec",
+			"same_letter",
+			"letter",
+			"calfflac",
+			"vans",
+			"max_len",
+			"cowxor",
+			"le",
+			"ri",
+			"height",
+			"rectbarn",
+			"segment",
+			"tot",
+			"twofive",
+			"hidden",
+			"picture",
+			"count",
+			"best_len",
+			"charrec",
+			"tot",
+			"telecow",
+			"g",
+			"tour",
+			"milk4",
+			"area",
+			"->",
+			"window",
+			"idx",
+			"schlnet",
+			"bigbrn",
+			"barrier",
+			"snail",
+			"16",
+			"starry",
+			"theme",
+			"under",
+			"move",
+			"qu[0]",
+			"st",
+			"TrieNode",
+			"key",
+			"next_num",
+			"lim",
+			"g",
+			"init_dist",
+			"cur->",
+			"offers[t].num[code[]]",
+			"consider",
+			"en",
+			"st",
+			"Eulerian",
+			"next_edge",
+			"opr",
+			"cantor",
+			"dist",
+			"exits",
+			"letter_index",
+			"letter_count",
+			"hole_pair",
+			"right_max",
+			"left_max",
+			"\"",
+			"Math.abs",
+			"true",
+			"TRUE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "2A/2A.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1109.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "2A/2A.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "2A/2A.out",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sublime_haskell_error_panel":
+	{
+		"height": 160.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 35.0
+	},
+	"pinned_build_system": "",
+	"project": "Codeforces.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
