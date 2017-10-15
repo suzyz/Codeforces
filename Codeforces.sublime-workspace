@@ -113,10 +113,12 @@
 	"expanded_folders":
 	[
 		"/Users/apple/Codeforces",
-		"/Users/apple/Codeforces/873B"
+		"/Users/apple/Codeforces/873B",
+		"/Users/apple/Codeforces/873D"
 	],
 	"file_history":
 	[
+		"/Users/apple/Codeforces/873D/873D.cpp",
 		"/Users/apple/Codeforces/873B/873B.cpp",
 		"/Users/apple/Codeforces/2B/2B.cpp",
 		"/Users/apple/Codeforces/2B/2B.in",
@@ -243,8 +245,7 @@
 		"/Users/apple/USACO/Chapter4/Section4.4/milk6/milk6.in",
 		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section4.4/milk6/milk6.c",
 		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.cpp",
-		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.out",
-		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.in"
+		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.out"
 	],
 	"find":
 	{

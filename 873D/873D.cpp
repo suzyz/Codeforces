@@ -6,43 +6,52 @@
 #include <vector>
 #include <climits>
 #include <iomanip>
+#include <algorithm>
+#include <utility>
 using namespace std;
 const int maxn = 100010;
 
-int n,diff[maxn];
-char s[maxn];
+int n,k;
+int d[maxn];
+bool flag = true;
 
-int min_idx[maxn*2 + 10];
+void unsort(int l,int r)
+{
+	if (k <= 0 || l >= r-1)
+		return;
+	k -= 2;
+
+	int mid = (l+r)>>1;
+	swap(d[mid-1],d[mid]);
+
+	unsort(l,mid);
+	unsort(mid,r);
+}
 
 int main()
 {
-	scanf("%d",&n);
-	scanf("%s",s+1);
+	scanf("%d%d",&n,&k);
 
-	int sum0 = 0, sum1 = 0;
-	memset(min_idx,-1,sizeof(min_idx));
-
-	min_idx[maxn] = 0;
-	for (int i = 1; i<=n; ++i)
+	if (k%2==0)
 	{
-		if (s[i] == '0')
-			++sum0;
-		else
-			++sum1;
-
-		diff[i] = sum0 - sum1;
-		if (min_idx[diff[i] + maxn] == -1)
-			min_idx[diff[i] + maxn] = i;
+		printf("-1\n");
+		return 0;
 	}
 
-	int ans = 0;
 	for (int i = 1; i <= n; ++i)
-	{
-		int idx = min_idx[diff[i] + maxn];
-		if (idx != -1)
-			ans = max(ans,i - idx);
-	}
+		d[i] = i;
+
+	--k;
+	unsort(1,n+1);
 	
-	printf("%d\n",ans);
+	if (k == 0)
+	{
+		for (int i = 1; i < n; ++i)
+			printf("%d ",d[i]);
+		printf("%d\n",d[n]);
+	}
+	else
+		printf("-1\n");
+
 	return 0;
 }
