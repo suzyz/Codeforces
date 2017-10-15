@@ -63,32 +63,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "2B/2B.cpp",
-			"settings":
-			{
-				"buffer_size": 1189,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "2B/2B.out",
-			"settings":
-			{
-				"buffer_size": 6,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "2B/2B.in",
-			"settings":
-			{
-				"buffer_size": 21,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -138,14 +112,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/apple/Codeforces"
+		"/Users/apple/Codeforces",
+		"/Users/apple/Codeforces/873B"
 	],
 	"file_history":
 	[
+		"/Users/apple/Codeforces/873B/873B.cpp",
+		"/Users/apple/Codeforces/2B/2B.cpp",
+		"/Users/apple/Codeforces/2B/2B.in",
+		"/Users/apple/Codeforces/2B/2B.out",
 		"/Users/apple/Codeforces/2A/2A.cpp",
 		"/Users/apple/Codeforces/2A/2A.out",
 		"/Users/apple/Codeforces/2A/2A.in",
-		"/Users/apple/Codeforces/2B/2B.in",
 		"/Users/apple/Codeforces/2A/14E.out",
 		"/Users/apple/Codeforces/14E/14E.in",
 		"/Users/apple/Codeforces/14E/14E.out",
@@ -266,10 +244,7 @@
 		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section4.4/milk6/milk6.c",
 		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.cpp",
 		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.out",
-		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.in",
-		"/Users/apple/USACO/Chapter4/Section4.3/lgame/lgame.cpp",
-		"/Users/apple/USACO/Chapter4/Section4.3/lgame/lgame.in",
-		"/Users/apple/USACO/Chapter4/Section4.3/lgame/lgame.out"
+		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.in"
 	],
 	"find":
 	{
@@ -551,94 +526,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "2B/2B.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1189,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1161,
-								1161
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 127.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "2B/2B.out",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6,
-								6
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "2B/2B.in",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 21,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								13,
-								13
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
