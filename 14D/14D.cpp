@@ -65,6 +65,8 @@ int main()
 	{
 		a = edges[i][0];
 		b = edges[i][1];
+		if (degree[a] == 1 || degree[b] == 1)
+			continue;
 		--degree[a];
 		--degree[b];
 		g[a][b] = g[b][a] = false;
