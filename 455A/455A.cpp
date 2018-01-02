@@ -1,4 +1,3 @@
-// Dijkstra with optimization. O(NlogN)
 #include <cstdio>
 #include <iostream>
 #include <algorithm>

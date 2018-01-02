@@ -1,49 +1,53 @@
 // Dijkstra with optimization. O(NlogN)
+// Using STL's priority_queue container.
+
 #include <cstdio>
 #include <iostream>
 #include <algorithm>
 #include <cstring>
 #include <cmath>
 #include <vector>
-#include <set>
+#include <queue>
+#include <utility>
 using namespace std;
 
 const int maxn = 100002;
 
-int n, m;
+int n,m,pre[maxn];
 bool vis[maxn];
 long long dist[maxn];
-vector<pair<int,int>> g[maxn];
-set<pair<int,int>> s(pair<int,int>,mycomparison);
+vector<pair<int,int> > g[maxn];
 
-class mycomparison
+struct mycomparison
 {
-public:
-  	bool operator() (const int& lhs, const int&rhs) const
+  	bool operator() (const pair<int,int>& a, const pair<int,int>&b) const
   	{
-    	if (reverse) return (lhs>rhs);
-    	else return (lhs<rhs);
+    	return (a.second > b.second);
 	}
 };
+priority_queue<pair<int,int>,vector<pair<int,int> >,mycomparison> h;
 
 void dijkstra()
 {
 	memset(dist,-1,sizeof(dist));
 	dist[1] = 0;
-	s.insert(make_pair(0,1));
+	h.push(make_pair<int,int>(1,0));
 
-	for (int i = 1; i < n; ++i)
+	while (!h.empty())
 	{
-		if (s.empty())
+		int idx = h.top().first;
+		if (idx == n) /* Found the shortest path to n, no need to continue */
 			break;
 
-		int idx = s.begin()->second;
-		if (idx == n)
-			break;
-
-		int mind = s.begin()->first;
+		if (vis[idx]) /* Vertex idx is in the set and has been used to update distances of other vertices. */
+		{
+			h.pop();
+			continue;
+		}
 
 		vis[idx] = true;
+		int mind = h.top().second;
+		h.pop();
 
 		for (int j = 0; j < g[idx].size(); ++j)
 		{
@@ -51,10 +55,11 @@ void dijkstra()
 			if (!vis[k])
 				if (dist[k] == -1 || dist[k] > mind + g[idx][j].second)
 				{
-					dist[k] =  mind + g[idx][j].second;
+					pre[k] = idx;
+					dist[k] = mind + g[idx][j].second;
+					h.push(make_pair(k,dist[k]));
 				}
 		}
-
 	}
 }
 
@@ -71,6 +76,21 @@ int main()
 
 	dijkstra();
 
-	cout << dist[n] << endl;
+	if (dist[n] == -1)
+		cout << -1 << endl;
+	else
+	{
+		int cur = n;
+		vector<int> path;
+		while (cur > 0)
+		{
+			path.push_back(cur);
+			cur = pre[cur];
+		}
+		for (int i = path.size()-1; i >= 0; --i)
+			cout << path[i] << " ";
+		cout << endl;
+	}
+
 	return 0;
 }
