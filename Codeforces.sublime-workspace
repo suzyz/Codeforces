@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"en",
+				"envelopes"
+			],
+			[
+				"ev",
+				"Envelope"
+			],
+			[
 				"pr",
 				"print"
 			],
@@ -63,6 +71,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "607B/607B.cpp",
+			"settings":
+			{
+				"buffer_size": 697,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -87,12 +104,16 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 307.0,
+		"last_filter": ":w",
 		"selected_items":
 		[
+			[
+				":w",
+				":w - Save"
+			]
 		],
-		"width": 485.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -113,11 +134,34 @@
 	"expanded_folders":
 	[
 		"/Users/apple/Codeforces",
-		"/Users/apple/Codeforces/873B",
-		"/Users/apple/Codeforces/873D"
+		"/Users/apple/Codeforces/607B"
 	],
 	"file_history":
 	[
+		"/Users/apple/Codeforces/651A/651A_2.cpp",
+		"/Users/apple/Codeforces/651A/651A.cpp",
+		"/Users/apple/Codeforces/313B/313B.cpp",
+		"/Users/apple/Codeforces/363B/363B.cpp",
+		"/Users/apple/Codeforces/4D/4D.cpp",
+		"/Users/apple/Codeforces/327A/327A.cpp",
+		"/Users/apple/Codeforces/580C/580C.cpp",
+		"/Users/apple/Codeforces/431C/431C.cpp",
+		"/Users/apple/Codeforces/20C/20C.cpp",
+		"/Users/apple/Codeforces/580A/580A.cpp",
+		"/Users/apple/Codeforces/455A/455A.cpp",
+		"/Users/apple/Codeforces/330B/330B.cpp",
+		"/Users/apple/Codeforces/437C/437C.cpp",
+		"/Users/apple/Codeforces/687A/687A.cpp",
+		"/Users/apple/Codeforces/755A/755A.cpp",
+		"/Users/apple/Codeforces/520B/520B.cpp",
+		"/Users/apple/Codeforces/217A/217A.cpp",
+		"/Users/apple/Codeforces/14D/14D.cpp",
+		"/Users/apple/Codeforces/707B/707B.cpp",
+		"/Users/apple/Codeforces/115A/115A.cpp",
+		"/Users/apple/Codeforces/545C/545C_2.cpp",
+		"/Users/apple/Codeforces/545C/545C.cpp",
+		"/Users/apple/Codeforces/894A/894A.cpp",
+		"/Users/apple/Codeforces/337A/337A.cpp",
 		"/Users/apple/Codeforces/873D/873D.cpp",
 		"/Users/apple/Codeforces/873B/873B.cpp",
 		"/Users/apple/Codeforces/2B/2B.cpp",
@@ -221,35 +265,11 @@
 		"/Users/apple/USACO/Chapter5/schlnet/schlnet_2.cpp",
 		"/Users/apple/USACO/Chapter5/schlnet/schlnet.in",
 		"/Users/apple/USACO/Chapter5/schlnet/schlnet.out",
-		"/Users/apple/USACO/Chapter5/bigbrn/bigbrn.in",
-		"/Users/apple/USACO/Chapter5/bigbrn/bigbrn.out",
-		"/Users/apple/USACO/Chapter5/bigbrn/bigbrn.cpp",
-		"/Users/apple/USACO/Chapter5/snail/snail.cpp",
-		"/Users/apple/USACO/Chapter5/snail/snail.out",
-		"/Users/apple/USACO/Chapter5/snail/snail.in",
-		"/Users/apple/USACO/Chapter5/starry/starry.cpp",
-		"/Users/apple/USACO/Chapter5/starry/starry.out",
-		"/Users/apple/USACO/Chapter5/fc/fc.cpp",
-		"/Users/apple/USACO/Chapter5/starry/starry.in",
-		"/Users/apple/USACO/Chapter5/fc/fc.out",
-		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section5.1/fc/fc.c",
-		"/Users/apple/USACO/Chapter5/theme/theme.cpp",
-		"/Users/apple/USACO/Chapter5/theme/theme.out",
-		"/Users/apple/USACO/Chapter5/theme/theme.in",
-		"/Users/apple/USACO/Chapter2/Section2.4/cowtour/cowtour.cpp",
-		"/Users/apple/USACO/Chapter4/Section4.4/frameup/frameup.cpp",
-		"/Users/apple/USACO/Chapter4/Section4.4/frameup/frameup.in",
-		"/Users/apple/USACO/Chapter4/Section4.4/frameup/frameup.out",
-		"/Users/apple/USACO/Chapter4/Section4.4/milk6/milk6.cpp",
-		"/Users/apple/USACO/Chapter4/Section4.4/milk6/milk6.out",
-		"/Users/apple/USACO/Chapter4/Section4.4/milk6/milk6.in",
-		"/Users/apple/Desktop/USACO(Training)_backup_of_first_time_solutions/Section4.4/milk6/milk6.c",
-		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.cpp",
-		"/Users/apple/USACO/Chapter4/Section4.4/shuttle/shuttle.out"
+		"/Users/apple/USACO/Chapter5/bigbrn/bigbrn.in"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 72.0
 	},
 	"find_in_files":
 	{
@@ -264,6 +284,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\t\t\t\n",
+			"s",
+			">>",
+			"count",
+			"coordinates",
+			"right",
+			"left",
 			"0",
 			"k",
 			"f[",
@@ -384,14 +411,7 @@
 			"lim1",
 			"max",
 			"find",
-			"dist",
-			"cur.",
-			"transformed[t]",
-			"consider[i]",
-			"en[i]",
-			"st[i]",
-			"ans",
-			"next"
+			"dist"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -399,6 +419,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"> >",
+			"freq",
+			"pos",
+			"f_right",
+			"f_left",
 			"k",
 			"1",
 			"0",
@@ -527,8 +552,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "607B/607B.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 644.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -583,7 +638,7 @@
 	"project": "Codeforces.sublime-project",
 	"replace":
 	{
-		"height": 76.0
+		"height": 138.0
 	},
 	"save_all_on_build": true,
 	"select_file":
